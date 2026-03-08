@@ -1,0 +1,34 @@
+{
+  "site_id": "0f530f8589e4",
+  "repo": "sivutnopeasti/espoon-putki---saneeraus-oy-0f530f8589e4",
+  "company": "Espoon putki & Saneeraus Oy",
+  "email": "asiakaspalvelu@espoonputki.fi",
+  "place_id": "",
+  "issue_number": 66,
+  "instagram_username": ",",
+  "instagram_feed": false,
+  "images": {
+    "hero": {
+      "url": "https://images.unsplash.com/photo-1632576201861-28d241b46ceb?ixid=M3w4ODYwNTl8MHwxfHNlYXJjaHw3fHxwbHVtYmluZyUyMHBpcGUlMjBpbnN0YWxsYXRpb258ZW58MHwwfHx8MTc3Mjk5OTE4NXww&ixlib=rb-4.1.0&w=1920&q=85&auto=format&fit=crop",
+      "alt": "LVI-asennustyö"
+    },
+    "image-1": {
+      "url": "https://images.unsplash.com/photo-1772563175261-07ab8d463293?ixid=M3w4ODYwNTl8MHwxfHNlYXJjaHw0fHxiYXRocm9vbSUyMHJlbm92YXRpb24lMjB0aWxlc3xlbnwwfDB8fHwxNzcyOTk5MTg1fDA&ixlib=rb-4.1.0&w=1080&q=85&auto=format&fit=crop",
+      "alt": "Kylpyhuoneremontti – valmis tila"
+    },
+    "image-2": {
+      "url": "https://images.unsplash.com/photo-1628341608791-50bc19b1d696?ixid=M3w4ODYwNTl8MHwxfHNlYXJjaHwxMXx8Y29wcGVyJTIwcGlwZSUyMGZpdHRpbngMv0fHx8MTc3Mjk5OTE4Nnww&ixlib=rb-4.1.0&w=1080&q=85&auto=format&fit=crop",
+      "alt": "Putkiasennus – kupariputket"
+    }
+  },
+  "texts": {
+    "h1": "LVI-palvelut pääkaupunkiseudulla",
+    "h2_1": "Putket kuntoon.Nopeasti.",
+    "h2_2": "Putkityöt ja remontit – me hoidamme",
+    "h2_3": "Näin remonttisi etenee kanssamme",
+    "h2_4": "Mitä lupaamme sinulle",
+    "h2_5": "Palvelemme koko Uudellamaalla",
+    "h2_6": "Vastauksia yleisimpiin kysymyksiin",
+    "hero_p": "Putkityöt, kylpyhuoneremontit ja linjasaneeraukset pääkaupunkiseudulla. Yli 20 vuoden kokemus alalta."
+  }
+}
